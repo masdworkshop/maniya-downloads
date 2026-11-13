@@ -1,0 +1,17 @@
+
+{
+  "organization": "MANIYA.IN",
+  "updated_at": "2026-11-13 17:30:00",
+  "apps": {
+    "clubfee_manager": {
+      "app_name": "MANIYA ClubFee Manager",
+      "package_id": "com.masdigital.nis.clubfee",
+      "version_code": 2,
+      "version_name": "1.1.0",
+      "is_critical": false,
+      "platform": "android",
+      "download_url": "https://github.com/masdworkshop/maniya-downloads/releases/latest/download/MANIYA_ClubFee_Manager.apk",
+      "release_notes": "First public release. Integrated MANIYA Hub 5-Rule Restore Lock and UPI Auto-Renewal."
+    }
+  }
+}
